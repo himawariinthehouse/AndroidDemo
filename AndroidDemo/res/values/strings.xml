@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="action_search">search</string>
+    <string name="action_add">add</string>
+    <string name="menu_group_chat">group chat</string>
+    <string name="menu_feedback">feedback</string>
+    <string name="menu_addfriend">add friend</string>
+    <string name="menu_scan">scan</string>
+    <string name="tab_contact">contact</string>
+    <string name="tab_found">found</string>
+    <string name="tab_me">me</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
+    <string name="title_activity_fragment_view">FragmentView</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+
+</resources>
